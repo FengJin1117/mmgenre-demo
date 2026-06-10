@@ -2,14 +2,6 @@
 
 Static GitHub Pages website for **MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**, accepted at Interspeech 2026.
 
-## Preview locally
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
 ## Publish
 
 Create a public GitHub repository named `mmgenre`, push this repository's `main` branch, and enable GitHub Pages from the repository settings.
