@@ -1,5 +1,6 @@
 mmgenre-demo/
 *.pdf
 paper.md
+docs/
 .DS_Store
 __pycache__/

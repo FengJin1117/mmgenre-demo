@@ -2,11 +2,16 @@
 
 Static GitHub Pages website for **MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**, accepted at Interspeech 2026.
 
-## Publish
+## 🌐 Live Demo
 
-Create a public GitHub repository named `mmgenre`, push this repository's `main` branch, and enable GitHub Pages from the repository settings.
+[Explore the MMGenre demo](https://fengjin1117.github.io/mmgenre-demo/)
 
-The GitHub, Hugging Face, and arXiv buttons in `index.html` are intentionally disabled until the public URLs are available.
+## 🚧 TODO
+
+- Add the Hugging Face dataset link.
+- Add the GitHub code repository link.
+- Expand examples to cover all 27 subgenres.
+- Add the formal citation after publication.
 
 ## Assets
 
