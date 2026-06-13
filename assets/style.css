@@ -152,7 +152,7 @@ h1 { margin-bottom: 12px; font-size: clamp(72px, 11vw, 146px); }
 .resource-link svg { width: 17px; height: 17px; fill: currentColor; }
 .resource-link:not(.disabled):hover { color: var(--accent); border-color: #b7cce2; }
 .resource-link.disabled { color: #8994a3; cursor: not-allowed; }
-.hf-logo { filter: grayscale(1); font-size: 15px; }
+.hf-logo { font-size: 15px; }
 .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
 .stat-card {
   min-height: 124px;
